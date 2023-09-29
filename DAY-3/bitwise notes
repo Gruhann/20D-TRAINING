@@ -1,0 +1,27 @@
+// if(a==10||a++<200|a++==12)//a=12 in output
+// if(a==10|a++<200|a++==12)//a=12 in output
+// if(a!=10||a++<200||a++==12)//a=11 in output
+
+// main()
+// {
+//     int a =~100;
+//     printf("%d\n",a);//-101
+
+// }
+
+// if(printf(""))//always goes to else part coz printf("")returns 0 value
+// {
+//     printf("hello\n");
+// }
+// else
+// {
+//     printf("hi\n");
+// }
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a =~(-100);
+//     printf("%d\n",a);//99
+
+// }
